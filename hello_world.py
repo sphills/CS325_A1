@@ -11,3 +11,7 @@ class Car:
 sedan = Car("Toyota", "Black")
 
 sedan.honk()
+
+sedanTwo = Car("Nissan", "Red")
+
+sedanTwo.honk()
